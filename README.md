@@ -62,13 +62,8 @@ Smaller schools show a correlation with higher percentages of student success in
 
 ![Scores by School Type](https://user-images.githubusercontent.com/104408782/172086550-b52810d1-1182-42f8-8acc-d760e44f3317.png)
 
+Charterschools out performed district schools. 
 
+#### Conclusions
 
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with 
-
-There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
-Summary:
-
-There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
-Submission
-Once you’re ready to submit, make sure to check your work against the rubric to ensure you are meeting the requirements for this Challenge one final time. It’s easy to 
+Ultimatly the  study shows that bigger isn't always better, student class size had a large influence on success rates. If a larger school lets students slip through the cracks and fall behind they may not be as successful in life. 
